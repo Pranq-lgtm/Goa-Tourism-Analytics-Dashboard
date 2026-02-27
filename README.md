@@ -8,75 +8,57 @@ This project analyzes Goa’s tourism ecosystem to identify strategies for enhan
 
 ### **Key Data Insights** 📊
 
-* 
-**Awareness Gap**: 68% of international tourists are unaware of local artisan markets despite expressing high interest in cultural experiences.
+* **Awareness Gap**: 68% of international tourists are unaware of local artisan markets despite expressing high interest in cultural experiences.
 
 
-* 
-**The "Digital Payment Bucket"**: 74% of tourists prefer digital payments (UPI/Cards), but only 18% of artisans currently offer these options.
+* **The "Digital Payment Bucket"**: 74% of tourists prefer digital payments (UPI/Cards), but only 18% of artisans currently offer these options.
 
 
-* 
-**Economic Opportunity**: Repeat visitors spend 3.2x more on artisan products than first-time visitors, highlighting a major opportunity for loyalty-driven "Cultural Passports".
+* **Economic Opportunity**: Repeat visitors spend 3.2x more on artisan products than first-time visitors, highlighting a major opportunity for loyalty-driven "Cultural Passports".
 
 
-* 
-**Target Demographics**: Domestic tourists aged 35-55 are the primary purchasers, accounting for 42% of artisan sales.
+* **Target Demographics**: Domestic tourists aged 35-55 are the primary purchasers, accounting for 42% of artisan sales.
 
 
 
 ### **Methodology** 🛠️
 
-* 
-**Dataset**: Cleaned and analyzed a survey dataset of 15,000 responses.
+* **Dataset**: Cleaned and analyzed a survey dataset of 15,000 responses.
 
 
-* 
-**Preprocessing**: Conducted data cleaning, standardization, and missing value imputation via regression.
+* **Preprocessing**: Conducted data cleaning, standardization, and missing value imputation via regression.
 
 
-* 
-**Analysis**: Performed univariate and bivariate analysis, including correlation studies between repeat visitation and cultural engagement ($r=0.82$).
+* **Analysis**: Performed univariate and bivariate analysis, including correlation studies between repeat visitation and cultural engagement ($r=0.82$).
 
 
 
 ### **Strategic Recommendations** 💡
 
-1. 
-**Goa Artisan Trail**: A targeted awareness campaign using QR-coded maps in partnership with hotels.
+1. **Goa Artisan Trail**: A targeted awareness campaign using QR-coded maps in partnership with hotels.
 
 
-2. 
-**Digital Upskilling**: Training 500 artisans in digital payment systems to capture up to 30% more sales.
+2. **Digital Upskilling**: Training 500 artisans in digital payment systems to capture up to 30% more sales.
 
 
-3. 
-**Cultural Passports**: Developing app-based loyalty programs to reward repeat visits to artisan hubs.
+3. **Cultural Passports**: Developing app-based loyalty programs to reward repeat visits to artisan hubs.
 
-
-To build a professional GitHub repository that impresses data science recruiters, we can structure the **Technical Methodology** section to showcase your end-to-end analytical process. This demonstrates your ability to handle messy data and apply appropriate statistical techniques.
-
-Let's break down the core technical components found in your report:
 
 ### 🧪 Data Pipeline & Preprocessing
 
-* 
-**Data Acquisition**: Processed a comprehensive dataset of $n=15,000$ survey responses covering demographics (age, nationality, income) and behavioral metrics (awareness, spending, payment modes).
+* **Data Acquisition**: Processed a comprehensive dataset of $n=15,000$ survey responses covering demographics (age, nationality, income) and behavioral metrics (awareness, spending, payment modes).
 
 
-* 
-**Data Cleaning**: Standardized categorical variables and performed deduplication to ensure data integrity.
+* **Data Cleaning**: Standardized categorical variables and performed deduplication to ensure data integrity.
 
 
-* 
-**Advanced Imputation**: Utilized **Regression Imputation** to handle missing values, preserving the statistical power of the dataset rather than simply dropping rows.
+* **Advanced Imputation**: Utilized **Regression Imputation** to handle missing values, preserving the statistical power of the dataset rather than simply dropping rows.
 
 
 
 ### 📉 Analytical Framework
 
-* 
-**Univariate Analysis**: Explored spending distributions, revealing that 65% of tourists fall within specific spending brackets.
+* **Univariate Analysis**: Explored spending distributions, revealing that 65% of tourists fall within specific spending brackets.
 
 
 * **Bivariate Analysis & Correlation**:
@@ -88,6 +70,5 @@ Let's break down the core technical components found in your report:
 
 
 
-* 
-**Feature Importance**: Analyzed factors driving artisan sales, identifying "Repeat Visitor Status" and "Digital Payment Availability" as key predictors of revenue.
+* **Feature Importance**: Analyzed factors driving artisan sales, identifying "Repeat Visitor Status" and "Digital Payment Availability" as key predictors of revenue.
 
