@@ -1,4 +1,4 @@
-# Goa_Tourism_Analytics_Dashboard
+# Goa-Tourism-Analytics-Dashboard
 
 **Title:** Storytelling with Data: Strategic Insights for Goa Tourism & Artisan Empowerment 🏺
 
